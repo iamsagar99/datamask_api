@@ -1,0 +1,1 @@
+Ignore .env commit . 
